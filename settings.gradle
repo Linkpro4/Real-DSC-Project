@@ -1,0 +1,2 @@
+rootProject.name='Real DSC Project'
+include ':app'
